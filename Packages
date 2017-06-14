@@ -1,0 +1,14 @@
+Package: com.dislick.blur
+Version: 0.1
+Section: Themes
+Maintainer: Patrick Muff
+Architecture: iphoneos-arm
+Filename: deb/MyTheme.deb
+Size: 1550
+MD5sum: e6ffafa0f28847088d46886b4a010cb2
+Description: simple blurry lockscreen
+Name: Blur Lockscreen
+Author: Patrick Muff
+Homepage: http://patrickmuff.ch
+Depiction: URL. This webpage replaces the description in Cydia. If you don't want this, remove the entire line.
+

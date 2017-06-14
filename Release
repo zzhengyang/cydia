@@ -1,0 +1,20 @@
+Origin: Patrick Muff
+
+Label: Patrick Muff
+
+Suite: stable
+
+Version: 0.1
+
+Codename: dslk
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: Repository of Patrick Muff
+
+MD5Sum:
+ecfad1228840faa60850788296f9ec32 411 Packages
+1e83869323b2fbc9633c3676ab83af49 312 Packages.gz
+dce9dee237c7fbcc98b6de35bdd603d7 340 Packages.bz2
